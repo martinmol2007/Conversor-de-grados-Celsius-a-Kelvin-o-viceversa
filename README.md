@@ -1,1 +1,1 @@
-Se que tiene faltas de ortografía XD
+**Aquest programa permet passar de graus Celsius a graus Kelvin o viceversa!**
